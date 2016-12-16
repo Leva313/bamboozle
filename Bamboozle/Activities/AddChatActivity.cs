@@ -14,7 +14,7 @@ using Firebase.Database;
 using System.Threading.Tasks;
 using Firebase.Auth;
 using System.Net.Mail;
-
+//realy nice app
 namespace Bamboozle
 {
 	[Activity(Label = "CreateChatActivty", Theme = "@android:style/Theme.Holo.Light.NoActionBar")]
